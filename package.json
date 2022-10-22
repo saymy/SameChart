@@ -1,0 +1,17 @@
+{
+  "name": "somechart",
+  "version": "1.0.0",
+  "description": "A front-end plug-in for charting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "front",
+    "chart",
+    "plug",
+    "javascript"
+  ],
+  "author": "122279907@qq.com",
+  "license": "ISC"
+}
